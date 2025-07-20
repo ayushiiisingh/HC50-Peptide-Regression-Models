@@ -23,7 +23,7 @@ Hemolytic peptides can rupture red blood cells and are important for therapeutic
 ## ⚙️ Methodology
 
 ### 🔬 Feature Extraction:
-- Pfeature descriptors (excluding AAC, DPC, SPC, PCP)
+- Pfeature descriptors (comprising AAC, DPC, SPC, PCP, etc.)
 
 ### 🧠 Regression Models:
 - Random Forest Regressor (RFR)
